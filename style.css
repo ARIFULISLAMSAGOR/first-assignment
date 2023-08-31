@@ -2,3 +2,72 @@ body{
     font-family: 'Lato', sans-serif;
 font-family: 'Roboto', sans-serif;
 }
+.header-section{
+    background-color:rgba(229, 84, 115, 0.10);
+    padding-top: 50px;
+    padding-left: 200px;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    
+}
+.btn-primary{
+    background-color: #E55473;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    border: 0;
+    color: white;
+}
+.image-part{
+    height: 400px;
+    width: 350px;
+    padding-top: 0;
+    margin-right: 100px;
+}
+.text-part{
+text-align: center;
+margin-top: 50px;
+}
+.png-6{
+    border-radius: 200px 200px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 30px;
+width: 150px;
+height: 250px;
+margin-left: 290px;
+margin-top: 0;
+}
+.png-7{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 30px;
+    width: 150px;
+    height: 250px;
+    margin-top: 0;
+    margin-left: 20px;   
+}
+.png-8{
+    border-radius: 200px 200px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 30px;
+    width: 150px;
+    height: 250px;
+    margin-top: 0;
+    margin-left: 20px;   
+}
+.pink{
+    text-decoration-line: underline;
+    margin-left: 330px;
+}
+.pink-2{
+    text-decoration-line: underline;
+    margin-left: 80px;
+}
+.pink-3{
+    text-decoration-line: underline;
+    margin-left: 80px;
+}
+.img-section{
+    display: flex;
+}

@@ -89,3 +89,18 @@ height: 300px;
 width: 250px;
 padding-top: 30px;
 }
+.rectangle{
+    width: 200px;
+    height: 300px;
+    display: flex;
+    margin-left: 150px;
+    gap: 20px;
+}
+.third-section{
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    margin: 50px 130px;
+}
+.text-deal{
+    text-align: center;
+    padding-top: 50px;
+}

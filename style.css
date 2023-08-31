@@ -114,6 +114,8 @@ background: #FFF;
 }
 .last-section{
     background-color:#FFF8F3 ;
+    padding-bottom: 30px;
+    gap: 10px;
 }
 .contact-part{
     text-align: center;
@@ -122,4 +124,17 @@ background: #FFF;
 }
 .click-part{
     padding-left: 620px;
+    
+}
+.shop{
+    color: white;
+}
+.footer-section{
+    background-color: black;
+    margin-top: 20px;
+}
+.last-div{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }

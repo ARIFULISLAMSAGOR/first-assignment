@@ -104,3 +104,22 @@ padding-top: 30px;
     text-align: center;
     padding-top: 50px;
 }
+.input-field{
+    width: 600px;
+    height: 30px;
+    border-radius: 8px;
+background: #FFF;
+ margin-bottom: 60px;
+ color:  rgba(39, 39, 39, 0.60);
+}
+.last-section{
+    background-color:#FFF8F3 ;
+}
+.contact-part{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.click-part{
+    padding-left: 620px;
+}

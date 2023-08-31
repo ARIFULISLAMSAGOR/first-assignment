@@ -71,3 +71,21 @@ margin-top: 0;
 .img-section{
     display: flex;
 }
+.second-section{
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+.off-part{
+    color: #E55473;
+}
+.Deal-part{
+    padding-top: 100px;
+    padding-left: 320px;
+}
+.png-9{
+height: 300px;
+width: 250px;
+padding-top: 30px;
+}
